@@ -1,0 +1,11 @@
+ 
+---------------------------------------------------------------Online Library(Based on OOP)----------------------------------------------------------------------------
+
+user can do following things in library:
+
+1) He/She can ask to provide a list of available books in library.
+2) He/She can lend book of his/her choice from available books in library.If selected book is available then library will
+  issue that book to user otherwise it will return the name of the lender of that book.
+3) User can donate books to library and it will record the details each of donations.
+4) User can return lended books back to library and in that case library will update the list of available books & Issued books.
+5) It can give information about real time users and doners of library.
